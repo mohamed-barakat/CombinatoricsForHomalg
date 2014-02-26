@@ -117,3 +117,8 @@ Versions:
 2013.10.10 which is Mohamed's version
 2012.09.17 which is Markus' version
 2012.03.29 which is Sebas' version
+
+HomalgToCAS/: dfe5152 replaced record identifier '$' by '^'
+
+Versions:
+ 2014.02.04
