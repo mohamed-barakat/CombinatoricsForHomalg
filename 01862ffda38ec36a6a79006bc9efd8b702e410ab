@@ -122,3 +122,8 @@ HomalgToCAS/: dfe5152 replaced record identifier '$' by '^'
 
 Versions:
  2014.02.04
+
+IO_ForHomalg/: 6ef8f31 improved Subtitle/LongTitle
+
+Versions:
+ 2012.10.24
